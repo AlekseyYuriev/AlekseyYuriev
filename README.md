@@ -17,10 +17,10 @@ I'm convinced that every product should be made taking care about user. Believe 
 
 <b>Backend:</b>
 <br>
-<a href="https://github.com/AlekseyYuriev/express-mesto-gha/blob/main/app.js"><img src="https://img.shields.io/badge/Express.js-14D100?style=for-the-badge&logo=express&logoColor=white" alt="Иконка 'Express'"></a>
-<a href="https://github.com/AlekseyYuriev/express-mesto-gha/blob/main/package.json"><img src="https://img.shields.io/badge/Node.js-14D100?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Иконка 'Node JS'"></a>
-<a href="https://github.com/AlekseyYuriev/express-mesto-gha/blob/main/app.js"><img src="https://img.shields.io/badge/MongoDB-14D100?style=for-the-badge&logo=mongodb&logoColor=white" alt="Иконка 'MongoDB'"></a>
-<a href=""><img src="https://img.shields.io/badge/Nginx-14D100?style=for-the-badge&logo=nginx&logoColor=white" alt="Иконка 'NGINX'"></a>
+<a href="https://github.com/AlekseyYuriev/express-mesto-gha/blob/main/app.js"><img src="https://img.shields.io/badge/Express.js-00BB3F?style=for-the-badge&logo=express&logoColor=white" alt="Иконка 'Express'"></a>
+<a href="https://github.com/AlekseyYuriev/express-mesto-gha/blob/main/package.json"><img src="https://img.shields.io/badge/Node.js-00BB3F?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Иконка 'Node JS'"></a>
+<a href="https://github.com/AlekseyYuriev/express-mesto-gha/blob/main/app.js"><img src="https://img.shields.io/badge/MongoDB-00BB3F?style=for-the-badge&logo=mongodb&logoColor=white" alt="Иконка 'MongoDB'"></a>
+<a href=""><img src="https://img.shields.io/badge/Nginx-00BB3F?style=for-the-badge&logo=nginx&logoColor=white" alt="Иконка 'NGINX'"></a>
 
 <b>General:</b>
 <br>
