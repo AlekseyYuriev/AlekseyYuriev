@@ -11,9 +11,9 @@ I'm convinced that every product should be made taking care about user. Believe 
 <br>
 <a href="https://github.com/AlekseyYuriev/mesto/blob/main/src/pages/index.js"><img src="https://img.shields.io/badge/JavaScript-FFCD00?style=for-the-badge&logo=javascript&logoColor=black" alt="Иконка 'JavaScript'"></a>
 <a href="https://github.com/AlekseyYuriev/react-mesto-api-full-gha/blob/main/frontend/src/components/App.js"><img src="https://img.shields.io/badge/React-2A4480?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Иконка 'React'"></a>
-<a href=""><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Иконка 'Jest'"></a>
 <a href="https://github.com/AlekseyYuriev/movies-explorer-frontend/blob/main/src/components/FilterCheckbox/FilterCheckbox.css"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Иконка 'СSS3'"></a>
 <a href="https://github.com/AlekseyYuriev/russian-travel/blob/main/index.html"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Иконка 'HTML5'"></a>
+<a href=""><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Иконка 'Jest'"></a>
 
 <b>Backend:</b>
 <br>
