@@ -6,6 +6,7 @@ I'm convinced that every product should be made taking care about user. Believe 
 <br>
 
 <h2>Языки и технологии:</h2>
+
 <b>Frontend:</b>
 <br>
 <a href="https://github.com/AlekseyYuriev/mesto/blob/main/src/pages/index.js"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Иконка 'JavaScript'"></a>
