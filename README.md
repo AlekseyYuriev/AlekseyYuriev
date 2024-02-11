@@ -33,7 +33,7 @@ I'm convinced that every product should be made taking care about user. Believe 
 <i>* - you can click the icon and have a look at the example of my code (you can also find the list of all projects <a href="https://github.com/AlekseyYuriev?tab=repositories">here</a>)</i>
 
 <h2 align="center">Statistics:</h2>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlekseyYuriev)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlekseyYuriev&theme=transparent" alt="GitHub Streak" /></a>
   
 <b>Contact information:</b>
 <br>
