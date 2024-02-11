@@ -5,7 +5,7 @@
 I'm convinced that every product should be made taking care about user. Believe in driving force of progress and appreciate opportunity to develop my skills. Completely immersed in the world of web development and looking forward to an opportunity to take part in commercial projects as soon as possible.
 <br>
 
-<h2>Языки и технологии:</h2>
+<h2>Skill set & expertise </h2>
 
 <b>Frontend:</b>
 <br>
