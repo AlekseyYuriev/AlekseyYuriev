@@ -37,6 +37,13 @@ I'm convinced that every product should be made taking care about user. Believe 
 <br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlekseyYuriev&theme=transparent&border_radius=8" alt="GitHub Streak" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyYuriev&layout=compact" width="495"/>
+
+<h2>Immediate development plans:</h2>
+
+<br>
+<a href=""><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Иконка 'Redux'"></a>
+<a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
+<br>
   
 <h2>Contact information:</h2>
 <br>
