@@ -35,7 +35,7 @@ I'm convinced that every product should be made taking care about user. Believe 
 <b>Contact information:</b>
 <br>
   <a href="https://t.me/elrouss">
-    <img src="https://img.shields.io/badge/mail.com-blue?logo=Mail.Ru&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/E-mail-blue?logo=Mail.Ru&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/frontend-elrouss/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
