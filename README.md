@@ -32,10 +32,11 @@ I'm convinced that every product should be made taking care about user. Believe 
 <br>
 <i>* - you can click the icon and have a look at the example of my code (you can also find the list of all projects <a href="https://github.com/AlekseyYuriev?tab=repositories">here</a>)</i>
 
-<h2 align="center">Statistics:</h2>
+<h2>Statistics:</h2>
+<br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlekseyYuriev&theme=transparent" alt="GitHub Streak" /></a>
   
-<b>Contact information:</b>
+<h2>Contact information:</h2>
 <br>
   <a href="mailto:alex11_90@mail.ru"><img src="https://img.shields.io/badge/Mail-blue?logo=mail.com&logoColor=white&style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/aleksey-yuriev"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
