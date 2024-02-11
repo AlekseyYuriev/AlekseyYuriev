@@ -32,6 +32,9 @@ I'm convinced that every product should be made taking care about user. Believe 
 <br>
 <i>* - you can click the icon and have a look at the example of my code (you can also find the list of all projects <a href="https://github.com/AlekseyYuriev?tab=repositories">here</a>)</i>
 
+<h2 align="center">Statistics:</h2>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlekseyYuriev)](https://git.io/streak-stats)
+  
 <b>Contact information:</b>
 <br>
   <a href="mailto:alex11_90@mail.ru"><img src="https://img.shields.io/badge/Mail-blue?logo=mail.com&logoColor=white&style=for-the-badge"></a>
