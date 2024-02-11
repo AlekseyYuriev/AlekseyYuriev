@@ -27,7 +27,7 @@ I'm convinced that every product should be made taking care about user. Believe 
 <a href="https://github.com/AlekseyYuriev/AlekseyYuriev/network"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Иконка 'Git'"></a>
 <a href="https://github.com/AlekseyYuriev/mesto/blob/main/webpack.config.js"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Иконка 'Webpack'"></a>
 <a href="https://github.com/AlekseyYuriev/mesto/blob/main/babel.config.js"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Иконка 'Babel'"></a>
-<a href=""><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Иконка 'Figma'"></a>
+<a href=""><img src="https://img.shields.io/badge/Figma-9F3ED5?style=for-the-badge&logo=figma&logoColor=white" alt="Иконка 'Figma'"></a>
 <a href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Иконка 'Postman'"></a>
 <br>
 <i>* - you can click the icon and have a look at the example of my code (you can also find the list of all projects <a href="https://github.com/AlekseyYuriev?tab=repositories">here</a>)</i>
