@@ -30,4 +30,16 @@ I'm convinced that every product should be made taking care about user. Believe 
 <a href=""><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Иконка 'Figma'"></a>
 <a href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Иконка 'Postman'"></a>
 <br>
-<i>* - you can click the icon and have a look at the example of my code (you can also find the list of all projects <a href="https://github.com/AlekseyYuriev?tab=repositories">here</a></i>
+<i>* - you can click the icon and have a look at the example of my code (you can also find the list of all projects <a href="https://github.com/AlekseyYuriev?tab=repositories">here</a>)</i>
+
+<b>Contact information:</b>
+<br>
+  <a href="https://t.me/elrouss">
+    <img src="https://img.shields.io/badge/E-mail-green?logo=Mail.RuColor=white&style=for-the-badge">
+  </a>
+  <a href="https://codepen.io/elrouss">
+    <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/frontend-elrouss/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
