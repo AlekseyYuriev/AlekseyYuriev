@@ -41,7 +41,6 @@ I'm convinced that every product should be made taking care about user. Believe 
 <h2>Immediate development plans:</h2>
 
 <br>
-https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
 <a href=""><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Иконка 'TypeScript'"></a>
 <a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
 <a href=""><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Иконка 'Redux'"></a>
