@@ -40,6 +40,7 @@ I'm convinced that every product should be made taking care about user. Believe 
 <br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlekseyYuriev&theme=vue-dark&border_radius=8" alt="GitHub Streak" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyYuriev&layout=compact" width="495"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyYuriev&layout=compact&theme=merko&langs_count=8" width="495"/>
 
 <h2>Immediate development plans:</h2>
 
