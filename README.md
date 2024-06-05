@@ -38,7 +38,7 @@ I'm convinced that every product should be made taking care about user. Believe 
 
 <h2>Statistics:</h2>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlekseyYuriev)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlekseyYuriev&theme=vue" alt="GitHub Streak" /></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlekseyYuriev&theme=transparent&border_radius=8" alt="GitHub Streak" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyYuriev&layout=compact" width="495"/>
 
