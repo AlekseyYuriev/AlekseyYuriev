@@ -22,8 +22,8 @@ I'm convinced that every product should be made taking care about user. Believe 
 <a href="https://github.com/AlekseyYuriev/express-mesto-gha/blob/main/package.json"><img src="https://img.shields.io/badge/Node.js-00BB3F?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Иконка 'Node JS'"></a>
 <a href="https://github.com/AlekseyYuriev/express-mesto-gha/blob/main/app.js"><img src="https://img.shields.io/badge/MongoDB-00BB3F?style=for-the-badge&logo=mongodb&logoColor=white" alt="Иконка 'MongoDB'"></a>
 <a href=""><img src="https://img.shields.io/badge/Nginx-00BB3F?style=for-the-badge&logo=nginx&logoColor=white" alt="Иконка 'NGINX'"></a>
-<a href=""><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Иконка 'Nest.js'"></a>
-<a href=""><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Иконка 'Postgresql'"></a>
+<a href="https://github.com/AlekseyYuriev/vinyl-store/blob/main/src/users/users.controller.ts"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Иконка 'Nest.js'"></a>
+<a href="https://github.com/AlekseyYuriev/vinyl-store/blob/main/src/vinyls/vinyls.service.ts"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Иконка 'Postgresql'"></a>
 
 <b>General:</b>
 <br>
@@ -45,7 +45,6 @@ I'm convinced that every product should be made taking care about user. Believe 
 <br>
 <a href=""><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Иконка 'Vue.js'"></a>
 <a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
-<a href=""><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Иконка 'Redux'"></a>
 <br>
   
 <h2>Contact information:</h2>
