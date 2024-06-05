@@ -44,8 +44,9 @@ I'm convinced that every product should be made taking care about user. Believe 
 <h2>Immediate development plans:</h2>
 
 <br>
-[![Nuxt][nuxt-src]][nuxt-href]
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
+<a href="#"><img src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Иконка 'Nuxt'"></a>
+
 <br>
   
 <h2>Contact information:</h2>
