@@ -30,6 +30,7 @@ I'm convinced that every product should be made taking care about user. Believe 
 <b>General:</b>
 <br>
 <a href="https://github.com/AlekseyYuriev/AlekseyYuriev/network"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Иконка 'Git'"></a>
+<a href="#"><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Иконка 'React Vite'"></a>
 <a href="https://github.com/AlekseyYuriev/mesto/blob/main/webpack.config.js"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Иконка 'Webpack'"></a>
 <a href="https://github.com/AlekseyYuriev/mesto/blob/main/babel.config.js"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Иконка 'Babel'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Figma-9F3ED5?style=for-the-badge&logo=figma&logoColor=white" alt="Иконка 'Figma'"></a>
