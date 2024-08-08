@@ -4,13 +4,14 @@
   
 <h2>About me:</h2>
 
-I'm convinced that every product should be made taking care about user. Believe in driving force of progress and appreciate opportunity to develop my skills. Completely immersed in the world of web development and looking forward to an opportunity to take part in commercial projects as soon as possible.
+I'm convinced that every product should be made taking care about user. Believe in driving force of progress and appreciate opportunity to develop my skills. Completely immersed in the world of web development.
 
 <h2>Skill set & expertise </h2>
 
 <b>Frontend:</b>
 <br>
 <a href="https://github.com/AlekseyYuriev/mesto/blob/main/src/pages/index.js"><img src="https://img.shields.io/badge/JavaScript-FFCD00?style=for-the-badge&logo=javascript&logoColor=black" alt="Иконка 'JavaScript'"></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
 <a href="https://github.com/AlekseyYuriev/innowise-lab-internship-level-1-clever-to-do-list/blob/project/src/components/TaskList.vue"><img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Иконка 'Vue.js'"></a>
 <a href="https://github.com/AlekseyYuriev/react-mesto-api-full-gha/blob/main/frontend/src/components/App.js"><img src="https://img.shields.io/badge/React-087DA4?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Иконка 'React'"></a>
 <a href="https://github.com/AlekseyYuriev/movies-explorer-frontend/blob/main/src/components/FilterCheckbox/FilterCheckbox.css"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Иконка 'СSS3'"></a>
@@ -44,7 +45,6 @@ I'm convinced that every product should be made taking care about user. Believe 
 <h2>Immediate development plans:</h2>
 
 <br>
-<a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
 <a href="#"><img src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Иконка 'Nuxt'"></a>
 
 <br>
